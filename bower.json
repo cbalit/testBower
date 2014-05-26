@@ -2,9 +2,7 @@
   "name": "testBower",
   "version": "0.0.0",
   "description": "just for test bower",
-  "moduleType": [
-    "node"
-  ],
+  "main": "main.js",
   "keywords": [
     "bower",
     "test"
